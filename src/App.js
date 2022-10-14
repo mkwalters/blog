@@ -9,14 +9,7 @@ function App() {
         <p>
           My name is Mitchell. I write software, play chess, chill with my girlfriend Adriana, read fantasy books and play guitar. Welcome to my blog!
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+
       </header>
     </div>
   );
